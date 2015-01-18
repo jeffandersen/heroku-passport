@@ -1,0 +1,29 @@
+{
+  "name": "heroku-passport",
+  "version": "0.0.1",
+  "description": "Heroku authentication strategy for Passport.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffandersen/heroku-passport.git"
+  },
+  "keywords": [
+    "heroku",
+    "passport",
+    "authentication",
+    "strategy",
+    "oauth"
+  ],
+  "author": "Jeff Andersen <@jeffandersen>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffandersen/heroku-passport/issues"
+  },
+  "homepage": "https://github.com/jeffandersen/heroku-passport",
+  "dependencies": {
+    "passport-oauth": "1.0.0"
+  }
+}
